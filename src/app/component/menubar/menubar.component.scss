@@ -1,0 +1,23 @@
+.example-space{
+    flex: 1 1 auto;
+}
+.pesqui{
+    display: inline;
+    margin-bottom: 3px;
+
+}
+
+.pesqui > input{
+     width: 260px;
+  
+}
+.button-pesqui{
+    all: unset;
+    border: none;
+    color: #a8a29e;
+    padding: 0px 1.25rem;
+    font-size: 1.25rem;
+    height: 100%;
+    margin-top: 1px;
+    opacity: 0.0;
+}
